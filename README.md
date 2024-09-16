@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @Rohit003-ui
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Rohit
+- 👀 I’m interested in Coding, Editing and Football.
+- 🌱 I’m currently learning UI/UX Designing.
+- 💞️ I’m looking to collaborate on some project.
+- 📫 How to reach me by email[rohit2820052@gmail.com].
+- 😄 Pronouns: A Strong-Minded Person
+- ⚡ Fun fact: 
 
-<!---
-Rohit003-ui/Rohit003-ui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
