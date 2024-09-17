@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Rohit
-- 👀 I’m interested in Coding, Editing and Football.
-- 🌱 I’m currently learning UI/UX Designing.
-- 💞️ I’m looking to collaborate on some project.
-- 📫 How to reach me by email[rohit2820052@gmail.com].
-- 😄 Pronouns: A Strong-Minded Person
-- ⚡ Fun fact: 
-
+- 👀 I’m interested in blending creativity with technology, focusing on logo designing, video making, and UI/UX.
+- 🌱 I’m currently learning advanced UI/UX Designing to build intuitive and impactful user experiences.
+- 💞️ I’m looking to collaborate on innovative design projects that bring ideas to life.
+- 📫 Reach me at rohit2820052@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’m a techie with an artistic streak – whether I’m sketching with a pencil or creating with pixels, I’m always designing the future!
